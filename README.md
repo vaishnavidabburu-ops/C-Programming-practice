@@ -19,7 +19,6 @@ This repository contains my c Programming practice programs.
 - Patterns
 - Calculator
 - Factorial
-- Factors
 - Multiplication Table
 # Goal
 To improve my problem solving and programming skills using C.
